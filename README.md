@@ -11,4 +11,5 @@ En el mundo de Monster Hunter, "La Caza de Sombras" sigue a Lydan, un cazador ex
 ## Indice
 1. [Introduccion](introduccion/README.md)
 2. [El Encuentro en el Bosque Abisal](encuentro/README.md)
-2. [La Sombra Fugitiva](sombra/README.md)
+3. [La Sombra Fugitiva](sombra/README.md)
+4. [Una Alianza Inesperada](alianza/README.md)
